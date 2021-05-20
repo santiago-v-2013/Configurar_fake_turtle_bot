@@ -12,7 +12,7 @@ cd ~/catkin_ws/src/
 ```
 git clone https://github.com/pirobot/rbx1.git
 ```
-  o se puede instalar desde los repositorios de ros de la siguiente manera
+* o se puede instalar desde los repositorios de ros de la siguiente manera
 ```
 sudo apt-get install ros-kinetic-rbx1  // Esta sentencia solo es valida para la version Kinetic de ROS
 ```
