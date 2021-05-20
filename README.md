@@ -6,3 +6,8 @@ A continuacion se describira un paso a paso para poder hacer funcionar el RBX1 j
 
 * Se abre un terminal, vamos al workspace donde descargaremos el RBX1 (~/catkin_ws/src/)
 * Una vez en el workspace copiamos la siguiente sentencia en el terminal 
+```
+git clone https://github.com/pirobot/rbx1.git
+```
+
+
